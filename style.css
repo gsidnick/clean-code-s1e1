@@ -47,7 +47,7 @@ h3 {
   list-style: none;
 }
 input,
-button{
+button {
   outline: none;
 }
 .button {
@@ -119,7 +119,7 @@ button{
   font-size: 18px;
   width: 226px;
 }
-.task >    .task__text {
+.task > .task-text {
   width: 226px;
 }
 .button.button_delete .button__icon {
