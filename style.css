@@ -1,3 +1,18 @@
+/* Reset Default Style */
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+input,
+button {
+  outline: none;
+}
+
 /* Basic Style */
 .page {
   background-color: #f8f8f8;
@@ -43,20 +58,6 @@
 
 .task {
   display: flex;
-}
-
-ul {
-  margin: 0;
-  padding: 0;
-}
-
-li {
-  list-style: none;
-}
-
-input,
-button {
-  outline: none;
 }
 
 .button {
